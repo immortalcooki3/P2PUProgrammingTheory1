@@ -1,0 +1,4 @@
+1. 110010
+2. 15
+3. 1111
+4. To display memory addresses.

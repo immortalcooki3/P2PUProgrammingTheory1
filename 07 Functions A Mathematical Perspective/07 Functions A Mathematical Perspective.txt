@@ -1,0 +1,15 @@
+Part A
+1. Parabola
+2. Curved line starting from 3rd quadrant changing curve at (0,0)
+3. Inverted parabola
+4. Line
+5. Curved lines
+6.Curved lines
+
+Part B
+1. y = 3
+2. x = 5
+3. f(z) = 3z + 7
+4. A continous line that exists with no end/breaks 
+5. Function where unconnected points exist
+6. Int, float

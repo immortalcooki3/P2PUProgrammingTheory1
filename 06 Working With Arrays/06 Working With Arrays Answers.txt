@@ -1,0 +1,15 @@
+1.	animals = [Giraffe, Zebra, Lion, Koala, Snake]
+	my_array.sort()
+	my_array.reverse()
+2.  numbers = [10, 11, 12, 13, 14, 15]
+	id(my_array[0])
+	id(my_array[1])
+	id(my_array[2])
+	id(my_array[3])
+	id(my_array[4])
+	id(my_array[5])
+3.	fruits = [Pineapple, Apple, Pear]
+	vegetables = [Lettuce, Eggplant, Mushroom]
+	vegefruits = fruits + vegetables
+	print vegefruits
+	Both arrays are combined into one.

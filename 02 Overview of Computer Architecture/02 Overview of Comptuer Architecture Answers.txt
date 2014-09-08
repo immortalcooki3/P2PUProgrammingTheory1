@@ -1,0 +1,7 @@
+1. PC stands for 'personal computer'. a personal computer is a computer which usually is for one person hence the name personal. PC is a much broader term of computers.
+Laptop is a computer which is portable and smaller with less performance as a desktop. Laptops are made for the convenience of portability hence the word 'lap'.
+Tablet PC is a touchscreen personal computer/tablet. It can be used as a normal laptop by connecting a keyboard or it can also be used as a touchscreen device such as iPad.
+A desktop PC is, unlike the other terms, a computer which is made to stay in a certain place. A desktop PC is more powerful than laptops and tablets and are bigger. 
+2. 64 bit. This was found in the computer information located in the settings.
+3. My computer has 40965MB RAM. This is found by using the DirectX Diagnostic Tool which tells you system information about the computer.
+4. My computer has 57GB of free free space. This is found by going into My Computer. 
