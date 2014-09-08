@@ -1,0 +1,28 @@
+"""  1.  """ 
+def UsersName(name):
+	return "Hello, %s" % (name)
+	
+NewName = raw_input("What is your name?:")
+print UsersName(NewName)
+	
+"""  2.  """ 
+def f(x):
+	return x * 4
+
+def g(x):
+	return x / 4
+	
+print g(f(5))
+
+Outcome:  5
+
+"""  3.  """ 
+from datetime import date
+def born(age):
+	year = date.today().year
+	y = year - age
+	return y
+
+age = int(raw_input("How old are you?"))
+
+print "You were born during: %s" % (born(age))
